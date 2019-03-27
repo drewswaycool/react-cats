@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-          <Cat type="gif" text='clarissa' fontSize='50' color='green' size="400" filter="grayscale" />
+          <Cat />
       </div>
     );
   }
