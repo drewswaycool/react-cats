@@ -9,7 +9,7 @@ Demo:
 
 ### Usage
 * Import the Cat component
-`import Blink from 'react-cats'`
+`import Cat from 'react-cats'`
 
 * Render it with joy!
 ```jsx
