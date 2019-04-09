@@ -2,7 +2,7 @@
 
 >This was just a quick experiment making use of the catsaas api created by @kevinbalicot
 
-Demo:
+Demo: https://wq5wl7vo3k.codesandbox.io/
 
 ### Installation
 `npm i -save react-cats`
