@@ -1,6 +1,6 @@
 {
   "name": "react-cats",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "author": "Drew McMurry",
   "homepage": "https://github.com/drewswaycool/react-cats",
   "repository": {
@@ -31,7 +31,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "description": "😼a simple react component leveraging catsaas.",
+  "description": "😼 a simple react component that render random cats!",
   "main": "src/Cat.js",
   "devDependencies": {},
   "license": "MIT",
