@@ -1,6 +1,6 @@
 ## React Cats
 
->This was just a quick experiment making use of the catsaas api created by kevinbalicot@gmail.com
+>This was just a quick experiment making use of the catsaas api created by @kevinbalicot
 
 Demo:
 
