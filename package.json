@@ -1,7 +1,16 @@
 {
-  "name": "react-cat",
+  "name": "react-cats",
   "version": "0.1.0",
-  "private": true,
+  "author": "Drew McMurry",
+  "homepage": "https://github.com/drewswaycool/react-cats",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drewswaycool/react-cats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drewswaycool/react-cats/issues"
+  },
+  "private": false,
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
@@ -21,5 +30,15 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
+  ],
+  "description": "😼a simple react component leveraging catsaas.",
+  "main": "src/Cat.js",
+  "devDependencies": {},
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-cats",
+    "cats",
+    "react-component"
   ]
 }

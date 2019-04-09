@@ -9,7 +9,9 @@ function Cat(props) {
           width = '',
           height = ''
         } = props;
-  let url = `https://cataas.com/cat/${type}/says/${text}?s=${fontSize}&c=${color}&filter=${filter}&width=${width}&height=${height}`;
+
+  const uniqueNum = Math.random();
+  const url = `https://cataas.com/cat/${type}/says/${text}?s=${fontSize}&c=${color}&filter=${filter}&width=${width}&height=${height}&uniqueNum=${uniqueNum}`;
 
   return (
     <img src={url} />
