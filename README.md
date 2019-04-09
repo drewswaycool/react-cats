@@ -1,6 +1,6 @@
 ## React Cats
 
->This was just a quick experiment making use of the catsaas api created by @kevinbalicot
+>Render random cats and cat gifs with or without text and other things! This was just a quick experiment making use of the [Cats as a Service API](https://cataas.com/) created by @kevinbalicot
 
 Demo: https://codesandbox.io/s/wq5wl7vo3k
 
